@@ -133,6 +133,7 @@ span{
     width: 5rem;
     height: 5rem;
     transition: 0.3s ease-in;
+    text-decoration: none;
 }
 .social a:hover{
     transform: scale(1)translateY(-4px);
